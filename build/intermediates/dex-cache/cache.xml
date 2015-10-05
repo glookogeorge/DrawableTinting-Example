@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/pre-dexed/debug/classes-059fe50d568a117366f6cc85237b542c66c94420.jar" />
+    </item>
+    <item
+        jar="/Users/glookogeorge/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-47c6aa305238d2200f2b0c64dcd7668dda799c04.jar" />
+    </item>
+    <item
+        jar="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-efdcff95527b72d943ac2ae014eb5b138da6d60f.jar" />
+    </item>
+    <item
+        jar="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/pre-dexed/debug/classes-3d3d962aee4b9623d87d080e0fbd7c681b9c4681.jar" />
+    </item>
+    <item
+        jar="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-c8f0aa293f732f1d0097f9b3f88c91bd3a4d1b37.jar" />
+    </item>
+    <item
+        jar="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/glookogeorge/Documents/Examples/DrawableTinting/Application/build/intermediates/pre-dexed/debug/classes-25d20e6de7a630f6cd319c25449de7e82393557a.jar" />
+    </item>
+
+</items>
